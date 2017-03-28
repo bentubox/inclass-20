@@ -1,4 +1,4 @@
 {
     "netid": "bnt1",
-    "backend": " https://enigmatic-refuge-49030.herokuapp.com"
+    "mongourl": "mongodb://heroku_s2psp0jh:qbsbn9n7psbsfm851h06ndqdae@ds143900.mlab.com:43900/heroku_s2psp0jh"
     }
